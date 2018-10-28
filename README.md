@@ -1,4 +1,4 @@
-# fauux.neocities.org website like gedit color scheme
+# fauux.neocities.org website like color scheme
 
 ![](./imgs/example_gedit.png)
 
