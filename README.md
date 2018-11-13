@@ -6,4 +6,4 @@
 config files for:
 
 + [gedit](./gedit.xml)
-
++ [gogh](./gogh.sh)
